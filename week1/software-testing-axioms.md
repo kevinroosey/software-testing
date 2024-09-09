@@ -23,6 +23,7 @@ insects with pesticides. If you keep applying the same pesticide, the insects ev
 pesticide no longer works.
 
 6. Not all the bugs you find will be fixed
+
 There are several reasons why you might choose not to fix a bug:
 • There’s not enough time. In every project there are always too many software features, too few people to code and
 test them, and not enough room left in the schedule to finish. If you’re working on a tax preparation program, April
